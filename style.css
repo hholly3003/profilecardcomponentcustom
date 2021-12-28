@@ -55,7 +55,8 @@ body{
     height: 100px;
     /* margin-bottom: 200px; */
     /* bottom: 400px; */
-    border: 2px solid whitesmoke;
+    border: 3px solid #e9c46a;
+    /* border: 2px solid whitesmoke; */
     /* border-color: whitesmoke; */
     border-radius: 50%;
 }
